@@ -1,2 +1,2 @@
 # Репозиторий Сервисного Центра "Мидас"
-![Лого Мидаса](./full.png)
+![Лого Мидаса](https://github.com/scmidas28/.github/blob/master/profile/full.png)
